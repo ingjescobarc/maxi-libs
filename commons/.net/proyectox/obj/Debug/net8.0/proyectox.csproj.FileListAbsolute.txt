@@ -1,0 +1,14 @@
+C:\Users\pp\source\repos\proyectox\bin\Debug\net8.0\proyectox.exe
+C:\Users\pp\source\repos\proyectox\bin\Debug\net8.0\proyectox.deps.json
+C:\Users\pp\source\repos\proyectox\bin\Debug\net8.0\proyectox.runtimeconfig.json
+C:\Users\pp\source\repos\proyectox\bin\Debug\net8.0\proyectox.dll
+C:\Users\pp\source\repos\proyectox\bin\Debug\net8.0\proyectox.pdb
+C:\Users\pp\source\repos\proyectox\obj\Debug\net8.0\proyectox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pp\source\repos\proyectox\obj\Debug\net8.0\proyectox.AssemblyInfoInputs.cache
+C:\Users\pp\source\repos\proyectox\obj\Debug\net8.0\proyectox.AssemblyInfo.cs
+C:\Users\pp\source\repos\proyectox\obj\Debug\net8.0\proyectox.csproj.CoreCompileInputs.cache
+C:\Users\pp\source\repos\proyectox\obj\Debug\net8.0\proyectox.dll
+C:\Users\pp\source\repos\proyectox\obj\Debug\net8.0\refint\proyectox.dll
+C:\Users\pp\source\repos\proyectox\obj\Debug\net8.0\proyectox.pdb
+C:\Users\pp\source\repos\proyectox\obj\Debug\net8.0\proyectox.genruntimeconfig.cache
+C:\Users\pp\source\repos\proyectox\obj\Debug\net8.0\ref\proyectox.dll
